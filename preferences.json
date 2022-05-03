@@ -1,9 +1,8 @@
 {
-  The favorite movie: The Dark Knight
-  The favotite TV series: The Peaky Blinders
-  The favorite food: spaghetti
-  The favorite time of the year: summer
-  The country i would like to visit: Japan
-
+  "The_favorite_movie":"The_Dark_Knight",
+  "The_favotite_TV_series":"The_Peaky_Blinders",
+  "The_favorite_food":"spaghetti",
+  "The_favorite_time_of_the_year":"summer",
+  "The_country_i_would_like_to_visit":"Japan"
 }
 
