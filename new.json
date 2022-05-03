@@ -1,8 +1,9 @@
 {
-	Andrey Aleksandrovich Deneshik
-	36 years old
-	No pets
-	The desired salary in the future 3000$
+	"First_name":"Andrey",
+	"Last_name":"Deneshik",
+	"Age":"36",
+	"Pets":"0",
+	"Salary":"1000$"
         
 }
 
